@@ -33,18 +33,19 @@ I spent 11+ years in industrial shutdowns, maintenance, and new construction. No
 
 ## 🛠 Tech Stack
 
+## 🛠 Tech Stack
+
 ![Fedora](https://img.shields.io/badge/-Fedora%20CoreOS-51A2DA?logo=fedora&logoColor=white)
-![Podman](https://img.shields.io/badge/-Podman-892CA0?logo=podman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Arch](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
+![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=nixos&logoColor=white)
+![Podman](https://img.shields.io/badge/-Podman-892CA0?logo=podman&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?logo=tailscale&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Duplicati](https://img.shields.io/badge/-Duplicati-1E3A5F?logo=duplicati&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?logo=jellyfin&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
