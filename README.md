@@ -46,10 +46,6 @@ I spent 11+ years in industrial shutdowns, maintenance, and new construction. No
 ![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?logo=jellyfin&logoColor=white)
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rey4one6&show_icons=true&theme=dark)
-
 ---
 
 ## 🔍 What I'm Learning
