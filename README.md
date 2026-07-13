@@ -9,7 +9,7 @@ I spent 11+ years in industrial shutdowns, maintenance, and new construction. No
 ## 🧪 Homelab & Projects
 
 ### 🔐 Immutable Container Host (Fedora CoreOS + Podman + Quadlets)
-- Architected a production-grade media automation stack on an immutable, container-optimized OS
+- Built a production-grade media automation stack on an immutable, container-optimized OS
 - **Rootless Podman** with Quadlets — zero Docker daemon, zero root exposure
 - **SELinux** enforcing mode for container isolation and mandatory access control
 - **Tailscale WireGuard VPN** with SSO — zero ports exposed to the internet
