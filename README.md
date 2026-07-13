@@ -1,16 +1,73 @@
-## Hi there 👋
+ 👋 Hi, I'm Rey Broadie - i-use-arch-btw
 
-<!--
-**rey4one6/rey4one6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Journeyman Pipefitter | Welder | 3rd-Year Plumber → Aspiring Cybersecurity Professional
 
-Here are some ideas to get you started:
+I spent 11+ years in industrial shutdowns, maintenance, and new construction. Now I'm pivoting into cybersecurity with hands-on infrastructure and security engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧪 Homelab & Projects
+
+### 🔐 Immutable Container Host (Fedora CoreOS + Podman + Quadlets)
+- Architected a production-grade media automation stack on an immutable, container-optimized OS
+- **Rootless Podman** with Quadlets — zero Docker daemon, zero root exposure
+- **SELinux** enforcing mode for container isolation and mandatory access control
+- **Tailscale WireGuard VPN** with SSO — zero ports exposed to the internet
+- **3-2-1 backup strategy**: Proxmox daily snapshots → external drive, Duplicati → Backblaze B2, GitHub → IaC
+- **Podman health checks** + ntfy.sh push notifications for real-time failure alerts
+- **Version pinning** to prevent supply-chain attacks via unpinned container updates
+- Full rebuild from bare metal to operational in **under 15 minutes** with Butane/Ignition
+
+### 🐧 Container Migration & Platform Evaluation
+- Migrated Docker Compose stack from Ubuntu Server to Fedora Server + Podman
+- Evaluated security tradeoffs: daemonized vs. daemonless, root vs. rootless containers
+- Wrapped entire stack in a single systemd service for lifecycle management
+
+### 🎬 Media Automation Stack (Ubuntu + Docker → Fedora CoreOS)
+- Sonarr, Radarr, Prowlarr, Bazarr, SABnzbd, Jellyfin, Jellyseerr, Maintainerr, Duplicati
+- Automated quality profiles preferring x265 for space efficiency
+- Smart media cleanup with Maintainerr (watched → delete, favorites/collections → keep)
+- GPU passthrough evaluation (AMD 4600G APU) — documented limitations for iGPU virtualization
+
+---
+
+## 🛠 Tech Stack
+
+![Fedora](https://img.shields.io/badge/-Fedora%20CoreOS-51A2DA?logo=fedora&logoColor=white)
+![Podman](https://img.shields.io/badge/-Podman-892CA0?logo=podman&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white)
+![Tailscale](https://img.shields.io/badge/-Tailscale-242424?logo=tailscale&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Duplicati](https://img.shields.io/badge/-Duplicati-1E3A5F?logo=duplicati&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?logo=jellyfin&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rey4one6&show_icons=true&theme=dark)
+
+---
+
+## 🔍 What I'm Learning
+
+- Infrastructure-as-Code (Butane/Ignition)
+- SELinux policy management
+- Zero-trust networking (WireGuard/Tailscale)
+- Container security hardening
+- Supply-chain risk mitigation
+
+---
+
+## 📫 Let's Connect
+
+- 📧 rey4one6@email.com
+- 🐙 [github.com/rey4one6](https://github.com/rey4one6)
+
+---
+
+*"From pipefitting to packet filtering — same troubleshooting mindset, different tools."*
