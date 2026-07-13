@@ -55,6 +55,7 @@ I spent 11+ years in industrial shutdowns, maintenance, and new construction. No
 - Zero-trust networking (WireGuard/Tailscale)
 - Container security hardening
 - Supply-chain risk mitigation
+- Security+ (in progress)
 
 ---
 
