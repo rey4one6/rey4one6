@@ -33,8 +33,6 @@ I spent 11+ years in industrial shutdowns, maintenance, and new construction. No
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 ![Fedora](https://img.shields.io/badge/-Fedora%20CoreOS-51A2DA?logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Arch](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
