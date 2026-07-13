@@ -61,7 +61,6 @@ I spent 11+ years in industrial shutdowns, maintenance, and new construction. No
 
 ## 📫 Let's Connect
 
-- 📧 rey4one6@email.com
 - 🐙 [github.com/rey4one6](https://github.com/rey4one6)
 
 ---
