@@ -60,7 +60,7 @@ I spent 11+ years in industrial shutdowns, maintenance, and new construction. No
 Rebuilt my entire 10-container CoreOS homelab into a single Ansible playbook:
 
 ```bash
-ansible-playbook rebuild-homelab.yml --ask-vault-pass
+ansible-playbook ~/homelab-ansible/playbooks/provision-homelab.yml --ask-vault-pass
 ```
 
 - Zero-touch deployment: From bare CoreOS to fully operational in ~15 minutes
