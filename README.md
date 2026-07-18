@@ -29,6 +29,14 @@ I spent 11+ years in industrial shutdowns, maintenance, and new construction. No
 - Smart media cleanup with Maintainerr (watched → delete, favorites/collections → keep)
 - GPU passthrough evaluation (AMD 4600G APU) — documented limitations for iGPU virtualization
 
+  ## 🏗️ Homelab Journey
+
+| Stage | Stack | What I Learned |
+|-------|-------|----------------|
+| 1. 🐧 | Ubuntu + Docker Compose | Containerization basics, networking, persistent storage, service orchestration |
+| 2. 🏗️ | Fedora CoreOS + Podman Quadlets | Immutable infrastructure, rootless containers, SELinux, daemonless architecture, IaC with Butane/Ignition |
+| 3. 🤖 | Ansible + Proxmox API | Zero-touch provisioning, secrets management with vault, idempotent configuration, full rebuild from one command |
+
 ---
 
 ## 🛠 Tech Stack
