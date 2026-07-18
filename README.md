@@ -47,6 +47,24 @@ I spent 11+ years in industrial shutdowns, maintenance, and new construction. No
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
 ---
 
+## 🤖 Infrastructure as Code
+
+Rebuilt my entire 10-container CoreOS homelab into a single Ansible playbook:
+
+```bash
+ansible-playbook rebuild-homelab.yml --ask-vault-pass
+```
+
+    Zero-touch deployment: From bare CoreOS to fully operational in ~15 minutes
+
+    Secrets management: All API keys, passwords, and tokens encrypted with ansible-vault
+
+    Idempotent: Run it once or a hundred times — same result, no breakage
+
+    Git-backed: Playbook lives on GitHub, not on any single machine
+
+Stack automated: Sonarr, Radarr, Prowlarr, Bazarr, SABnzbd, Jellyfin, Jellyseerr, Duplicati, Maintainerr, plus monitoring (ntfy.sh) and auto-updates.
+
 ---
 
 ## 🔍 What I'm Learning
