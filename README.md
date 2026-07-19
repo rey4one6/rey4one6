@@ -25,7 +25,7 @@ I spent 11+ years in industrial shutdowns, maintenance, and new construction. No
 
 ### 🎬 Media Automation Stack (Ubuntu + Docker → Fedora CoreOS)
 - Sonarr, Radarr, Prowlarr, Bazarr, SABnzbd, Jellyfin, Jellyseerr, Maintainerr, Duplicati
-- Automated quality profiles preferring x265 for space efficiency
+- Automated quality profiles preferring x265 & AV1 for space efficiency
 - Smart media cleanup with Maintainerr (watched → delete, favorites/collections → keep)
 - GPU passthrough evaluation (AMD 4600G APU) — documented limitations for iGPU virtualization
 
