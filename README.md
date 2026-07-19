@@ -1,4 +1,4 @@
-## 👋🏾 Hey, I'm rey - i-use-arch-btw
+## 👋🏾 Hey, I'm rey... i-use-arch-btw
 
 ### 🔧 Journeyman Pipefitter | Welder | 3rd-Year Plumber → Aspiring Cybersecurity Professional
 
